@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeZoneSQLInsert", "TimeZoneSQLInsert\TimeZoneSQLInsert.csproj", "{DFD49E61-7622-4AE0-B6E2-B120FE07E50A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFD49E61-7622-4AE0-B6E2-B120FE07E50A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFD49E61-7622-4AE0-B6E2-B120FE07E50A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFD49E61-7622-4AE0-B6E2-B120FE07E50A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFD49E61-7622-4AE0-B6E2-B120FE07E50A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B002D764-FBE0-43F0-B93B-9A51074D4528}
+	EndGlobalSection
+EndGlobal
